@@ -1,15 +1,15 @@
 {
-  "name": "generator-node-coffee",
+  "name": "generator-coffee",
   "version": "0.0.1",
-  "description": "A node-coffee generator for Yeoman",
+  "description": "A coffee generator for Yeoman",
   "keywords": [
     "yeoman-generator",
     "scaffold",
     "node",
     "coffee-script"
   ],
-  "homepage": "https://github.com/pismute/generator-node-coffee",
-  "bugs": "https://github.com/pismute/generator-node-coffee/issues",
+  "homepage": "https://github.com/pismute/generator-coffee",
+  "bugs": "https://github.com/pismute/generator-coffee/issues",
   "author": {
     "name": "Changwoo Park",
     "email": "pismute@gmail.com",
@@ -18,7 +18,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pismute/generator-node-coffee.git"
+    "url": "https://github.com/pismute/generator-coffee.git"
   },
   "scripts": {
     "test": "mocha"
