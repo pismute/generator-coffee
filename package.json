@@ -1,6 +1,6 @@
 {
   "name": "generator-coffee",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A coffee generator for Yeoman",
   "keywords": [
     "yeoman-generator",
@@ -24,14 +24,14 @@
     "test": "mocha"
   },
   "dependencies": {
-    "yeoman-generator": "~0.13.3",
-    "npm": "~1.3.11"
+    "yeoman-generator": "latest",
+    "npm": "latest"
   },
   "devDependencies": {
-    "mocha": "~1.12.0"
+    "mocha": "latest"
   },
   "peerDependencies": {
-    "yo": "~1.0.3"
+    "yo": "latest"
   },
   "engines": {
     "node": ">= 0.8.0",
