@@ -1,0 +1,12 @@
+/node_modules/
+
+.travis*
+History.md
+
+.git/
+.gitignore
+.gitattributes
+.editorconfig
+.jshintrc
+
+test/
