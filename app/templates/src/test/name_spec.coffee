@@ -71,7 +71,7 @@ Feature "New Feature",
 
       voice = null
 
-      Given "I am a awesome singing", ->
+      Given "I am an awesome singer", ->
       When "I sing", ->
         voice = <%= slugname %>.awesome()
       Then "it should sound awesome", ->
