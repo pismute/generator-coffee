@@ -4,7 +4,7 @@
 
 [Yeoman]: http://yeoman.io/
 [Coffeescript]: http://coffeescript.org/
-[Mocha]: http://visionmedia.github.com/mocha/
+[Mocha]: http://mochajs.org/
 [Mocha-cakes]: https://github.com/quangv/mocha-cakes
 
 ## Installation
